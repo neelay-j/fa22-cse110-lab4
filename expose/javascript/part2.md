@@ -1,4 +1,4 @@
-# Expose, Part 2
+# Expose JS, Part 2
 
 1. 3 is printed to the console. `i` is declared with `var` so it stays in scope when the loop exits. Hence, it equals `prices.length`, which is 3
 2. 150 is printed to the console. `discountedPrice` is declared with `var` so it stays in scope when the loop exits. Hence, it equals the last value it took on in the loop, which is 150

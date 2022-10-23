@@ -1,4 +1,4 @@
-# Expose, Part 1
+# Expose JS, Part 1
 
 1. values added: 20
 2. final result: 20
